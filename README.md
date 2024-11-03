@@ -5,7 +5,8 @@ Link Group : https://t.me/plancnewss
 
 AUTO CLAIM PAWS / CLEAR TASKS
 
-pip install certifi
+# Install
+pip install certifi 
 pip install charset-normalizer
 pip install colorama
 pip install idna
@@ -14,7 +15,7 @@ pip install requests
 pip install urllib3
 
 
-buat file : 
+# buat file : 
 File accountlist.json 
 File query.txt 
 
